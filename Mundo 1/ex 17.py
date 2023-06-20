@@ -1,0 +1,10 @@
+'''oposto = float(input("Comprimento do cateto oposto: "))
+adjacente = float(input("Comprimento do cateto adjacente: "))
+hipo = ((oposto ** 2) + (adjacente ** 2)) ** (1/2)
+print("A hipotenusa ira medir {:.2f}.".format(hipo))''' # primeira maneira (sem modulos)
+
+
+'''from math import hypot
+oposto = float(input("Comprimento do cateto oposto: "))
+adjacente = float(input("Comprimento do cateto adjacente: "))
+print("A hipotenusa ira medir {:.2f}.".format(hypot(oposto,adjacente)))''' # segunda maneira (com modulos)
