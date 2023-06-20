@@ -1,3 +1,3 @@
 # Curso-em-video
-Curso de python
-Aqui estam as aulas e exercicios feitos.
+Curso de python,
+aqui estam as aulas e exercicios feitos.
